@@ -1,0 +1,15 @@
+redis:
+  host: localhost
+  port: 6379
+  user:     # 本地redis的用户名为空
+  password: abc123
+  db: 0
+
+mysql:
+  host: localhost
+  port: 3306
+  user: root
+  password: 666666Aa_
+  db_name: practicego
+
+priority: config file
